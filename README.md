@@ -1,6 +1,6 @@
 # S&P500 Data Analysis
 
-This is inspired by the SentDex's Guided project : "Python for Finance" >> https://bit.ly/31xc1no.
+This project is inspired by this series :>> https://bit.ly/31xc1no.
 
 The different Python files and their contents are :
 
