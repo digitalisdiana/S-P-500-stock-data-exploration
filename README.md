@@ -1,4 +1,4 @@
-# PythonForFinance
+# S&P500 Data Analysis
 
 This is inspired by the guided project "Python for Finance" by pythonprogramming.net.
 
