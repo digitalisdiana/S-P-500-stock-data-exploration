@@ -1,6 +1,6 @@
 # S&P500 Data Analysis
 
-This project is inspired by this series :>> https://bit.ly/31xc1no.
+This 6 Part Series is inspired by this guided project :>> https://bit.ly/31xc1no.
 
 The different Python files and their contents are :
 
