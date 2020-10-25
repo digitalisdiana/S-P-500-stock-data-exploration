@@ -1,6 +1,6 @@
 ## Investment Portfolio Strategy Development : Data Analysis
 
-This 6 Part Series is a guide to the tech curious Financial Investor. It breaks down the entire process of building an informed portfolio making the most out of the best free tools of forecast available on the market. This series has been made possible thanks to SentDex's guided project :>> https://bit.ly/31xc1no.
+This 6 Part Series is a guide for the tech curious Financial Investor. It breaks down the entire process of building an informed portfolio making the most out of the best free tools of forecast available on the market. This series has been made possible thanks to SentDex's guided project :>> https://bit.ly/31xc1no.
 
 The different Python files and their contents are :
 
