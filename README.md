@@ -4,7 +4,7 @@ This 6 Part Series is a guide for the tech curious Financial Investor. It breaks
 
 The different Python files and their contents are :
 
-- Part1.py : Amazon Intro
+- Part1.py (the code)/ Part1.pdf (the output): Amazon Intro
 
 This is the introductory part of the project; it explores aspects such as retrieving stock price data, grapnhing and handling data as well as techniques of stock data manipulation.
 To simplify the process, we have only used data from one company : Amazon. This introduction prepares us for what is to come : manipulating stock data for multiple entities of a market or across markets.
